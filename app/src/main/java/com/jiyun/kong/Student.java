@@ -7,4 +7,7 @@ package com.jiyun.kong;
 
 
 public class Student {
+    private String name;
+
+
 }
